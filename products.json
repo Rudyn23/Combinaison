@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "image": "images/image1.jpg",
+        "price": 59.99,
+        "description": "Wrap yourself in rays of happiness with this adorable bodysuit. Perfect for brightening up any day!"
+    },
+    {
+        "id": "2",
+        "image": "images/image2.jpg",
+        "price": 39.99,
+        "description": "Flutter into fashion with this sweet pink bodysuit. Delicate and divine, it's a must-have for romantic souls."
+    },
+    {
+        "id": "3",
+        "image": "images/image3.jpg",
+        "price": 34.99,
+        "description": "Snuggle up in style with this cuddly bodysuit. Soft and oh-so-comfortable, it's like a warm hug all day long."
+    },
+    {
+        "id": "4",
+        "image": "images/image4.jpg",
+        "price": 69.99,
+        "description": "Spread your wings and fly in this butterfly-inspired beauty. Elegant and enchanting, it's a true delight."
+    },
+    {
+        "id": "5",
+        "image": "images/image5.jpg",
+        "price": 39.99,
+        "description": "Taste the rainbow with this vibrant tie-dye delight. Bursting with color, it's a fun and funky choice."
+    },
+    {
+        "id": "6",
+        "image": "images/image6.jpg",
+        "price": 44.99,
+        "description": "Dance through fields of daisies in this dreamy bodysuit."
+    },
+    {
+        "id": "7",
+        "image": "images/image7.jpg",
+        "price": 29.99,
+        "description": "Berry good vibes await with this sweet and fruity bodysuit. Juicy and delightful, it's a treat for the eyes!"
+    },
+    {
+        "id": "8",
+        "image": "images/image8.jpg",
+        "price": 49.99,
+        "description": "Twirl into fantasy land with this bodysuit. Sweet and whimsical, it's pure magic."
+    },
+    {
+        "id": "9",
+        "image": "images/image9.jpg",
+        "price": 24.99,
+        "description": "Unleash your inner wild child with this fierce black bodysuit. Bold and beautiful, it's sure to turn heads."
+    },
+    {
+        "id": "10",
+        "image": "images/image10.jpg",
+        "price": 39.99,
+        "description": "Bloom into beauty with this petal-popping green bodysuit. Fresh and fabulous, it's a garden party in garment form!"
+    },
+    {
+        "id": "11",
+        "image": "images/image11.jpg",
+        "price": 44.99,
+        "description": "Its rich green hue and sleek design make it the perfect pick for adding a touch of natural beauty to any outfit."
+    },
+    {
+        "id": "12",
+        "image": "images/image12.jpg",
+        "price": 44.99,
+        "description": "Wrap yourself in effortless style with our denim jumpsuit, perfect for embracing a chic and casual vibe."
+    }
+]
